@@ -184,6 +184,7 @@
 					};
 					4FBAA6FC1B4D807F00C8657F = {
 						CreatedOnToolsVersion = 6.4;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
